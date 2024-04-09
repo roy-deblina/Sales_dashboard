@@ -1,4 +1,4 @@
-# Sales_dashboard
+# sales-analytics
 #Introduction
 
 Welcome to this Power BI project, where it focuses on the dynamic world of retail analytics using a comprehensive dataset capturing essential details of  business operations. In this project, the intricate web of sales transactions, customer interactions, and product performance to uncover valuable insights that drive informed decision-making and enhance business outcomes.
@@ -69,6 +69,53 @@ The dominance of cash on delivery as the preferred payment mode suggests a need 
 The strong performance of standard class shipments, mobile phones, and office supplies indicates potential areas of strength within the product offerings. Capitalising on these high-performing categories through targeted marketing campaigns and product promotions could further drive sales and revenue growth.
 
 Overall, these insights provide valuable guidance for strategic decision-making, enabling the company to capitalise on strengths, address weaknesses, and optimise operations for sustained success in the competitive market landscape.
+
+# sales-analytics
+
+## Introduction
+
+Welcome to the Sales Analytics project! This Power BI project is dedicated to exploring the dynamic realm of retail analytics using a comprehensive dataset that captures essential details of business operations. Through detailed analysis of sales transactions, customer interactions, and product performance, this project aims to uncover valuable insights that drive informed decision-making and enhance business outcomes.
+
+## Transformation
+
+Upon importing the dataset into Power BI Desktop, several transformations were performed to clean and refine the data for analysis. This included removing unnecessary columns, handling null values, adjusting data types, and deriving new metrics such as average delivery time for shipments.
+
+## Visualization
+
+The project dashboard comprises various visualizations and filters to analyze sales data effectively:
+
+- **Background**: The background image was customized for visual appeal, and transparency settings were adjusted for clarity.
+  
+- **Cards**: Key metrics such as total orders, sales, profit, and shipping days are displayed through cards.
+
+- **Map**: A map visualization illustrates profit and sales by state using bubble sizes and tooltips for enhanced insights.
+
+- **Donut Chart**: Three donut charts provide insights into sales distribution by payment mode, region, and segment.
+
+- **Area Chart**: Two area charts represent total sales over time, one by month and the other by profit.
+
+- **Clustered Bar Chart**: Three clustered bar charts visualize sales data by ship mode, category, and sub-category.
+
+- **Slicer**: A slicer allows users to filter data by region for focused analysis.
+
+- **Line Chart**: Two line charts display monthly total sales variation with a zoom slider and forecast length for 15 days.
+
+## Insight
+
+- **Seasonal Trends**: There is a noticeable surge in sales during the latter half of both 2019 and 2020, suggesting potential seasonality or external factors influencing consumer behavior.
+
+- **Delivery Efficiency**: An average shipment delivery time of 4 days indicates efficient logistics management, contributing to positive customer experiences.
+
+- **Financial Performance**: With total profit nearing 175k and total sales reaching 1.6 million, the company exhibits strong financial performance.
+
+- **Regional Disparities**: The stark difference in sales performance between regions underscores the importance of targeted marketing strategies.
+
+- **Payment Preferences**: The dominance of cash on delivery suggests a need for diversification in payment options to cater to varying customer preferences.
+
+- **Product Insights**: Strong performance in certain product categories indicates potential areas of strength within the product offerings.
+
+These insights provide valuable guidance for strategic decision-making, enabling the company to capitalize on strengths, address weaknesses, and optimize operations for sustained success in the competitive market landscape.
+
 
 
 
